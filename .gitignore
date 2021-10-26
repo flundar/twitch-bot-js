@@ -1,0 +1,10 @@
+## VS Code generated files and folders
+/.vscode/
+
+## NPM generated files and folders
+/node_modules/
+
+## App generated files and folders
+app.cfg.json
+commands*.json
+!commands.example.json

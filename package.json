@@ -1,0 +1,26 @@
+{
+  "name": "twitch-chat-bot",
+  "version": "1.0.0",
+  "description": "A simple Chat Bot for a single Twitch Channel.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PythooonUser/twitch-chat-bot-js.git"
+  },
+  "author": "Felix Siebeneicker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PythooonUser/twitch-chat-bot-js/issues"
+  },
+  "homepage": "https://github.com/PythooonUser/twitch-chat-bot-js#readme",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "tmi.js": "^1.5.0",
+    "twitch": "^4.4.11",
+    "twitch-pubsub-client": "^4.4.11",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
