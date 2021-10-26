@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PythooonUser/twitch-chat-bot-js.git"
+    "url": "git+https://github.com/flundar/twitch-bot-js.git"
   },
-  "author": "Felix Siebeneicker",
+  "author": "flundar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PythooonUser/twitch-chat-bot-js/issues"
+    "url": "https://github.com/flundar/twitch-bot-js/issues"
   },
-  "homepage": "https://github.com/PythooonUser/twitch-chat-bot-js#readme",
+  "homepage": "https://github.com/flundar/twitch-bot-js#readme",
   "dependencies": {
     "discord-webhook-node": "^1.1.8",
     "tmi.js": "^1.5.0",
